@@ -1,0 +1,2 @@
+Q1. Fraudsters change tactics when they notice that old tactics aren't working anymore: How do you make sure that you are handling these cases effectively?
+A1. By encapsulating the behaviour behind new attack vectors constantly.(how to implement this?)
