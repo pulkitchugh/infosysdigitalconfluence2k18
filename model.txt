@@ -1,2 +1,4 @@
-trying to increase recall, tends to come with a decrease of precision. However, in our case, 
+- trying to increase recall, tends to come with a decrease of precision. However, in our case, 
 if we predict that a transaction is fraudulent and turns out not to be, is not a massive problem compared to the opposite.
+
+- more focus should be given on the transactio with large amount. (inference from data spectrum)
