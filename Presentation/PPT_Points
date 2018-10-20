@@ -1,3 +1,14 @@
--Unbalanced data
+-Unbalanced data can be overcomed by SMOTE technique (Working on this only)
+
 -Anomaly detection
+
+-Our whole proposed solution should revolve around "THE Business Proft or LOSS minimization". Everything we propose should in a way that it can 
+benifit the business involved.
+
+-Uniqueness of our proposed model should be highlighted, backed by some ground work (Research paper/ Self Exploration)
+
+-Assumptions [Areas where our model will fail or drawback of our model should also be mentioned in a more subtle manner]
+
+- we shoild never say that our model is complete we should delibrately point out some problem in the model whose solution we can implent showing future work 
+we can do on the model.
 
