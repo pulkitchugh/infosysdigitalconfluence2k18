@@ -2,3 +2,5 @@
 if we predict that a transaction is fraudulent and turns out not to be, is not a massive problem compared to the opposite.
 
 - more focus should be given on the transactio with large amount. (inference from data spectrum)
+
+- learning deep features using an autoencoder and thenfeeding the features into a separate anomaly detection method like one-class SVM (OC-SVM)
