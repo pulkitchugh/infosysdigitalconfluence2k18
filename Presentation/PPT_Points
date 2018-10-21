@@ -1,3 +1,5 @@
+-Business Objective - The objective is to detect fraudulent transactions which is essential for banks so that customers are not charged for something they haven't purchased. It's necessary to retain customers and maintain brand value of the bank.
+
 - Firstly we should give some insight into type of credit card fraud and describe which one we are trying to solve, i'll update this with that content soon.
 -Unbalanced data can be overcomed by SMOTE technique (Working on this only)
 
